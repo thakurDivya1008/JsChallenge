@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body{
+        background-color: aquamarine;
+    }
+    h1{
+        color: crimson;
+        font-size: 40px;
+        margin-left: 20px;
+    }
+    #myImage{
+        display: block;
+        width: 200px;
+        height: auto;
+    }
+    #myElement {
+        width: 200px;
+        height: 100px;
+        background-color: lightgray;
+        text-align: center;
+        line-height: 100px;
+        border: 1px solid black;
+
+    }
+</style>
+<body>
+    <h1>Day 10</h1>
+    <!-- Task1 -->
+    <button id="myButton">Click me</button>
+    <p id="para">Original Text</p>
+      <!-- Task 2 -->
+    <img src="https://i1.wp.com/articleusa.com/wp-content/uploads/2021/02/software_development-blog-banner.png?resize=1536%2C922&ssl=1" alt="sample Image" id="myImage">
+
+    <!-- Task 3 || Task 4 -->
+     <div id="myElement">Hover me</div>
+
+     <!-- Task 5 -->
+      <label for="inputField">Type Something</label>
+      <input type="text" id="inputField">
+
+      <!-- Task 6 -->
+       <label for="input">Type something :</label>
+       <input type="text" id="input">
+       <p id="displayPara">Current Value will be displayed here.</p>
+
+     <!--Task 7  -->
+     <form id="myForm">
+        <label for="name">Name :</label>
+        <input type="text" id="name" name="name">
+        <br><br>
+        <label for="email">Email:</label>
+        <input type="text" id="email" name="email">
+        <br><br>
+        <button type="submit">Submit</button>
+     </form>
+     <!-- Task 8 -->
+      <label for="mySelect">Choose an option:</label>
+      <select  id="mySelect">
+        <option value="Option">option 1</option>
+        <option value="option">Option 2</option>
+        <option value="option">Option 3</option>
+      </select>
+      <p id="selectedValue">Selected value will be displayed here..</p>
+
+      <!-- Task 9 -->
+       <ul id="myList">
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+        <li>Item 4</li>
+       </ul>
+
+       <!-- Task 10 -->
+        <div id="parentElement">
+            <button id="addButton">Add Item</button>
+            <ul id="dynamicList"></ul>
+        </div>
+
+
+
+    <script src="event.js"></script>
+</body>
+</html>
