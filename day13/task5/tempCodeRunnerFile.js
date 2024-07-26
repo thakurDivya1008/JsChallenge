@@ -1,0 +1,1 @@
+console.log(`Square of ${num1} is ${constants.square(num1)}.`);
