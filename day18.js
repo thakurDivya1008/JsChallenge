@@ -237,14 +237,14 @@ function fibonacci(n) {
     return fibonacci(n - 1) + fibonacci(n - 2);
 }
 
-function logFibonacciSequence(length) {
+function FibonacciSequence(length) {
     for (let i = 0; i < length; i++) {
         console.log(fibonacci(i));
     }
 }
 
 
-logFibonacciSequence(10);
+FibonacciSequence(10);
 
 
 
