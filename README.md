@@ -1,5 +1,5 @@
 
-/
+
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" /> -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -70,9 +70,9 @@ I completed the 30 Days JavaScript Challenge by Hitesh Choudhary, covering topic
 
 ### Get in Touch
 
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
+- **Email:** thakurdivya220703@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/divya-kumari-2a61962a7/
+  
 
 Feel free to explore my repositories and connect with me!
 
