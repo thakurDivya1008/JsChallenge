@@ -55,13 +55,6 @@ I completed the 30 Days JavaScript Challenge by Hitesh Choudhary, covering topic
 3. **E-commerce Website**: A fully functional e-commerce site featuring product listings, shopping cart, and checkout functionality.
 4. **Social Media Dashboard**: A social media dashboard with user authentication, post creation, and interactive features like likes and comments.
 
-### Projects
-
-- **DSA Solutions Repository**: A collection of my solutions to various DSA problems, focusing on optimizing time and space complexity.
-- **E-commerce Website**: Built a fully functional e-commerce website with features like product listing, shopping cart, and checkout.
-- **Social Media Dashboard**: Created a dashboard with user authentication, post creation, and interactive features like likes and comments.
-- **Weather App**: Developed a weather application using JavaScript and a weather API to display current weather conditions based on user input.
-- **Movie Search App**: Created a movie search application that allows users to search for movies and view details using an external movie database API.
 
 ### GitHub Stats
 
